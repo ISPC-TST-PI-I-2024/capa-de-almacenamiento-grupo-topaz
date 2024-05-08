@@ -1,6 +1,6 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/dpfHO3Yy)
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=15004430&assignment_repo_type=AssignmentRepo)
-![Logo de la Institución ISPC](./E%20assets/logoISPC.png)
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/dpfHO3Yy)  
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=15004430&assignment_repo_type=AssignmentRepo)  
+![Logo de la Institución ISPC](./E%20assets/logoISPC.png)  
 
 # Proyecto Final - Capa de Almacenamiento
 
@@ -9,12 +9,16 @@
 - **Institución**: Instituto Superior Politécnico Córdoba (ISPC)
 - **Curso**: Proyecto Integrador I
 - **Docente**: Cristian Gonzalo Vera
-- **Equipo de Desarrollo [nombre del quipo]**:
-  - Integrante 1
-  - Integrante 2
-  - Integrante 3
-  - Integrante 4
-  - (Añadir más integrantes según corresponda)
+- **Equipo de Desarrollo Grupo Topaz**:
+  - Mayrene Roselyn Colmenares Ramirez
+- Facundo Nestor Fernandez
+- Ulises Benjamin Gomez
+- Matias Gabriel Gomez Lazzarini
+- Merwil Gustavo Quintana Becerra
+- Patricio Leandro Roldan
+- Maria Lourdes Romero
+- Marcia Elizabeth Villablanca Rodas
+
 
 ## Sobre el Proyecto
 
