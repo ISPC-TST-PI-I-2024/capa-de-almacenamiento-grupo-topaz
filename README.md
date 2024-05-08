@@ -11,13 +11,13 @@
 - **Docente**: Cristian Gonzalo Vera
 - **Equipo de Desarrollo Grupo Topaz**:
   - Mayrene Roselyn Colmenares Ramirez
-- Facundo Nestor Fernandez
-- Ulises Benjamin Gomez
-- Matias Gabriel Gomez Lazzarini
-- Merwil Gustavo Quintana Becerra
-- Patricio Leandro Roldan
-- Maria Lourdes Romero
-- Marcia Elizabeth Villablanca Rodas
+  - Facundo Nestor Fernandez
+  - Ulises Benjamin Gomez
+  - Matias Gabriel Gomez Lazzarini
+  - Merwil Gustavo Quintana Becerra
+  - Patricio Leandro Roldan
+  - Maria Lourdes Romero
+  - Marcia Elizabeth Villablanca Rodas
 
 
 ## Sobre el Proyecto
